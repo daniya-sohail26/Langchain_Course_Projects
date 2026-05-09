@@ -1,2 +1,3 @@
 Personal Chef Multimodal AI Agent
 Multi agent healthcare triage system with a main llm orchestrator connecting with three different sub agents for different purposes including maintenance of custom state
+Email Assistant Agent with Middleware including summarization and human in the loop for approvals and context window management
